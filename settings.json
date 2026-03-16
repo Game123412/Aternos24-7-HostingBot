@@ -9,7 +9,7 @@
     "ip": "exust.aternos.me",
     "port": 46654,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -36,7 +36,7 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": false,
+    "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
